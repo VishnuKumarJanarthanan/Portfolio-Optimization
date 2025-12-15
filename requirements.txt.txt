@@ -1,0 +1,21 @@
+```txt
+# Core libraries
+pandas>=1.5.0
+numpy>=1.23.0
+matplotlib>=3.5.0
+seaborn>=0.11.0
+
+# Finance-specific
+yfinance>=0.2.0
+ta>=0.10.0
+
+# Optimization & Statistics
+scipy>=1.9.0
+statsmodels>=0.13.0
+
+# Visualization
+plotly>=5.11.0
+
+# Development
+jupyter>=1.0.0
+ipython>=8.0.0
